@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "458890774614",
+    "project_id": "dcu-intelligent-assistan-96fea",
+    "storage_bucket": "dcu-intelligent-assistan-96fea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458890774614:android:cd911bc722a9973810d3f7",
+        "android_client_info": {
+          "package_name": "com.chatbot2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458890774614-8pjp43262sk6kv7thkj4einau77n8tfv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chatbot2",
+            "certificate_hash": "2ff7e3b4269dfd9c402062cd3be2a8250998e90d"
+          }
+        },
+        {
+          "client_id": "458890774614-g5g0psrntmd87dnudrg10r51d73qdu8h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6k9VD7giDK-XaCLyQ9w5S1DB93aTBsgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458890774614-g5g0psrntmd87dnudrg10r51d73qdu8h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

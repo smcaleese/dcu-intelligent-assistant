@@ -1,0 +1,239 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AssignmentsHome Snapshot Test 1`] = `
+<RCTScrollView
+  contentContainerStyle={
+    Object {
+      "alignItems": "center",
+    }
+  }
+  style={
+    Object {
+      "backgroundColor": "#DEDEDE",
+      "flex": 1,
+    }
+  }
+>
+  <View>
+    <View
+      style={
+        Object {
+          "backgroundColor": "white",
+          "marginTop": 24,
+          "width": "80%",
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "fontSize": 20,
+            "padding": 16,
+            "textAlign": "center",
+          }
+        }
+      >
+        Assignments
+      </Text>
+    </View>
+    <View
+      style={
+        Object {
+          "alignItems": "flex-end",
+          "backgroundColor": "#4169e1",
+          "width": "80%",
+        }
+      }
+    />
+    <View
+      accessible={true}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "#4269E1",
+          "borderRadius": 5,
+          "flexDirection": "row",
+          "justifyContent": "center",
+          "marginTop": 32,
+          "opacity": 1,
+          "width": "80%",
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "white",
+            "flex": 1,
+            "fontSize": 16,
+            "padding": 16,
+            "textAlign": "center",
+          }
+        }
+      >
+        Add Assignment
+      </Text>
+      <Image
+        source={
+          Object {
+            "testUri": "../../../assets/arrow.png",
+          }
+        }
+        style={
+          Object {
+            "height": 30,
+            "margin": 16,
+            "width": 30,
+          }
+        }
+      />
+    </View>
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "white",
+          "width": "80%",
+        }
+      }
+    >
+      <TextInput
+        allowFontScaling={true}
+        onChangeText={[Function]}
+        placeholder="Assignment Name"
+        rejectResponderTermination={true}
+        style={
+          Array [
+            Object {
+              "backgroundColor": "white",
+              "borderColor": "gray",
+              "borderRadius": 5,
+              "borderWidth": 1,
+              "margin": 16,
+              "paddingLeft": 15,
+              "width": "80%",
+            },
+            Object {
+              "marginTop": 30,
+            },
+          ]
+        }
+        underlineColorAndroid="transparent"
+        value=""
+      />
+      <TextInput
+        allowFontScaling={true}
+        onChangeText={[Function]}
+        placeholder="Date"
+        rejectResponderTermination={true}
+        style={
+          Object {
+            "backgroundColor": "white",
+            "borderColor": "gray",
+            "borderRadius": 5,
+            "borderWidth": 1,
+            "margin": 16,
+            "paddingLeft": 15,
+            "width": "80%",
+          }
+        }
+        underlineColorAndroid="transparent"
+        value=""
+      />
+      <View
+        accessible={true}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "backgroundColor": "#4269E1",
+            "borderRadius": 5,
+            "margin": 10,
+            "marginBottom": 20,
+            "opacity": 1,
+            "paddingLeft": 10,
+            "paddingRight": 10,
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "color": "white",
+              "padding": 16,
+              "textAlign": "center",
+            }
+          }
+        >
+          Submit
+        </Text>
+      </View>
+    </View>
+    <View
+      accessible={true}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "#4269E1",
+          "borderRadius": 5,
+          "flexDirection": "row",
+          "justifyContent": "center",
+          "marginTop": 32,
+          "opacity": 1,
+          "width": "80%",
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "white",
+            "flex": 1,
+            "fontSize": 16,
+            "padding": 16,
+            "textAlign": "center",
+          }
+        }
+      >
+        User Settings
+      </Text>
+      <Image
+        source={
+          Object {
+            "testUri": "../../../assets/arrow.png",
+          }
+        }
+        style={
+          Object {
+            "height": 30,
+            "margin": 16,
+            "width": 30,
+          }
+        }
+      />
+    </View>
+  </View>
+</RCTScrollView>
+`;

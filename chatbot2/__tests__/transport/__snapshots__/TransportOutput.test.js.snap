@@ -1,0 +1,434 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TransportOutput Snapshot Test 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#f0f0f0",
+      "flex": 1,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "backgroundColor": "#4269E1",
+        "borderTopLeftRadius": 10,
+        "borderTopRightRadius": 10,
+        "marginTop": 50,
+        "padding": 5,
+        "width": "95%",
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "white",
+          "fontSize": 24,
+          "textAlign": "center",
+        }
+      }
+    >
+      Bus Times
+    </Text>
+  </View>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "white",
+        "borderBottomLeftRadius": 10,
+        "borderBottomRightRadius": 10,
+        "justifyContent": "center",
+        "marginTop": 0,
+        "width": "95%",
+      }
+    }
+  >
+    <RCTScrollView
+      style={
+        Object {
+          "height": "65%",
+          "width": "100%",
+        }
+      }
+    >
+      <View>
+        <View>
+          <View>
+            <View
+              style={
+                Object {
+                  "borderBottomColor": "#d3d3d3",
+                  "borderBottomWidth": 1.5,
+                  "flex": 1,
+                  "flexDirection": "row",
+                  "justifyContent": "center",
+                  "margin": 10,
+                  "marginBottom": 16,
+                }
+              }
+            >
+              <Text
+                style={
+                  Object {
+                    "color": "#535353",
+                    "fontSize": 18,
+                    "padding": 2,
+                    "textAlign": "center",
+                    "width": "80%",
+                  }
+                }
+              >
+                Test
+              </Text>
+            </View>
+            <View>
+              <View>
+                <View
+                  style={
+                    Object {
+                      "flexDirection": "row",
+                      "justifyContent": "center",
+                      "margin": 5,
+                    }
+                  }
+                >
+                  <View
+                    style={
+                      Object {
+                        "backgroundColor": "#4269E1",
+                        "borderBottomLeftRadius": 5,
+                        "borderTopLeftRadius": 5,
+                        "height": 70,
+                        "justifyContent": "center",
+                        "padding": 5,
+                        "width": 70,
+                      }
+                    }
+                  >
+                    <Text
+                      style={
+                        Array [
+                          Object {
+                            "color": "black",
+                            "fontWeight": "bold",
+                            "textAlign": "center",
+                            "textAlignVertical": "center",
+                          },
+                          Object {
+                            "color": "white",
+                          },
+                        ]
+                      }
+                    >
+                      123
+                    </Text>
+                    <Text
+                      allowFontScaling={false}
+                      style={
+                        Array [
+                          Object {
+                            "color": "#FFF",
+                            "fontSize": 24,
+                          },
+                          Object {
+                            "textAlign": "center",
+                            "width": "100%",
+                          },
+                          Object {
+                            "fontFamily": "Material Design Icons",
+                            "fontStyle": "normal",
+                            "fontWeight": "normal",
+                          },
+                          Object {},
+                        ]
+                      }
+                    >
+                      󱀒
+                    </Text>
+                  </View>
+                  <View
+                    style={
+                      Object {
+                        "backgroundColor": "white",
+                        "borderColor": "#d3d3d3",
+                        "borderLeftWidth": 0,
+                        "borderRightWidth": 0,
+                        "borderWidth": 2,
+                        "height": 70,
+                        "justifyContent": "center",
+                        "margin": 0,
+                        "overflow": "hidden",
+                        "padding": 5,
+                        "width": "45%",
+                      }
+                    }
+                  >
+                    <Text
+                      style={
+                        Array [
+                          Object {
+                            "color": "black",
+                            "fontWeight": "bold",
+                            "textAlign": "center",
+                            "textAlignVertical": "center",
+                          },
+                          Object {
+                            "fontSize": 12,
+                          },
+                        ]
+                      }
+                    >
+                      Test-Dest
+                    </Text>
+                    <Text
+                      style={
+                        Object {
+                          "fontSize": 12,
+                          "textAlign": "center",
+                        }
+                      }
+                    >
+                      15:30
+                    </Text>
+                  </View>
+                  <View
+                    style={
+                      Object {
+                        "backgroundColor": "#4269E1",
+                        "borderBottomRightRadius": 5,
+                        "borderTopRightRadius": 5,
+                        "flexDirection": "column",
+                        "height": 70,
+                        "justifyContent": "center",
+                        "padding": 5,
+                        "width": 70,
+                      }
+                    }
+                  >
+                    <Text
+                      style={
+                        Object {
+                          "color": "white",
+                          "fontWeight": "bold",
+                          "textAlign": "center",
+                        }
+                      }
+                    >
+                      10
+                    </Text>
+                    <Text
+                      style={
+                        Object {
+                          "color": "white",
+                          "fontWeight": "bold",
+                          "textAlign": "center",
+                        }
+                      }
+                    >
+                      mins
+                    </Text>
+                  </View>
+                </View>
+              </View>
+              <View>
+                <View
+                  style={
+                    Object {
+                      "flexDirection": "row",
+                      "justifyContent": "center",
+                      "margin": 5,
+                    }
+                  }
+                >
+                  <View
+                    style={
+                      Object {
+                        "backgroundColor": "#4269E1",
+                        "borderBottomLeftRadius": 5,
+                        "borderTopLeftRadius": 5,
+                        "height": 70,
+                        "justifyContent": "center",
+                        "padding": 5,
+                        "width": 70,
+                      }
+                    }
+                  >
+                    <Text
+                      style={
+                        Array [
+                          Object {
+                            "color": "black",
+                            "fontWeight": "bold",
+                            "textAlign": "center",
+                            "textAlignVertical": "center",
+                          },
+                          Object {
+                            "color": "white",
+                          },
+                        ]
+                      }
+                    >
+                      123
+                    </Text>
+                    <Text
+                      allowFontScaling={false}
+                      style={
+                        Array [
+                          Object {
+                            "color": "#FFF",
+                            "fontSize": 24,
+                          },
+                          Object {
+                            "textAlign": "center",
+                            "width": "100%",
+                          },
+                          Object {
+                            "fontFamily": "Material Design Icons",
+                            "fontStyle": "normal",
+                            "fontWeight": "normal",
+                          },
+                          Object {},
+                        ]
+                      }
+                    >
+                      󱀒
+                    </Text>
+                  </View>
+                  <View
+                    style={
+                      Object {
+                        "backgroundColor": "white",
+                        "borderColor": "#d3d3d3",
+                        "borderLeftWidth": 0,
+                        "borderRightWidth": 0,
+                        "borderWidth": 2,
+                        "height": 70,
+                        "justifyContent": "center",
+                        "margin": 0,
+                        "overflow": "hidden",
+                        "padding": 5,
+                        "width": "45%",
+                      }
+                    }
+                  >
+                    <Text
+                      style={
+                        Array [
+                          Object {
+                            "color": "black",
+                            "fontWeight": "bold",
+                            "textAlign": "center",
+                            "textAlignVertical": "center",
+                          },
+                          Object {
+                            "fontSize": 12,
+                          },
+                        ]
+                      }
+                    >
+                      Test-Dest
+                    </Text>
+                    <Text
+                      style={
+                        Object {
+                          "fontSize": 12,
+                          "textAlign": "center",
+                        }
+                      }
+                    >
+                      15:40
+                    </Text>
+                  </View>
+                  <View
+                    style={
+                      Object {
+                        "backgroundColor": "#4269E1",
+                        "borderBottomRightRadius": 5,
+                        "borderTopRightRadius": 5,
+                        "flexDirection": "column",
+                        "height": 70,
+                        "justifyContent": "center",
+                        "padding": 5,
+                        "width": 70,
+                      }
+                    }
+                  >
+                    <Text
+                      style={
+                        Object {
+                          "color": "white",
+                          "fontWeight": "bold",
+                          "textAlign": "center",
+                        }
+                      }
+                    >
+                      20
+                    </Text>
+                    <Text
+                      style={
+                        Object {
+                          "color": "white",
+                          "fontWeight": "bold",
+                          "textAlign": "center",
+                        }
+                      }
+                    >
+                      mins
+                    </Text>
+                  </View>
+                </View>
+              </View>
+            </View>
+          </View>
+        </View>
+      </View>
+    </RCTScrollView>
+    <View
+      style={
+        Object {
+          "margin": 10,
+        }
+      }
+    >
+      <View
+        accessible={true}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "backgroundColor": "#4269E1",
+            "borderRadius": 5,
+            "margin": 10,
+            "opacity": 1,
+            "padding": 15,
+            "width": 200,
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "color": "white",
+              "fontSize": 16,
+              "fontWeight": "bold",
+              "textAlign": "center",
+            }
+          }
+        >
+          Refresh
+        </Text>
+      </View>
+    </View>
+  </View>
+</View>
+`;

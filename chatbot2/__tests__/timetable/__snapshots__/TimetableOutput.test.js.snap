@@ -1,0 +1,720 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TimetableOutput Snapshot Test 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "white",
+      "flex": 1,
+      "paddingTop": 10,
+    }
+  }
+>
+  <Text
+    style={
+      Object {
+        "fontSize": 20,
+        "padding": 16,
+        "textAlign": "center",
+      }
+    }
+  >
+    CASE2
+    , 
+    Thursday
+    , 
+    11/03/2021
+  </Text>
+  <RCTScrollView>
+    <View>
+      <View>
+        <Text />
+      </View>
+      <View
+        style={
+          Object {
+            "margin": 15,
+          }
+        }
+      >
+        <View
+          accessible={true}
+          focusable={true}
+          onClick={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            Object {
+              "backgroundColor": "#4269E1",
+              "borderRadius": 10,
+              "height": 120,
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "flex": 1,
+                "flexDirection": "row",
+                "justifyContent": "space-between",
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "marginBottom": 4,
+                  "marginTop": 4,
+                  "width": "80%",
+                }
+              }
+            >
+              <Text
+                style={
+                  Object {
+                    "backgroundColor": "#4269E1",
+                    "color": "white",
+                    "fontSize": 20,
+                    "padding": 4,
+                    "textAlign": "center",
+                  }
+                }
+              >
+                Linear Algebra MLC
+              </Text>
+              <Text
+                style={
+                  Array [
+                    Object {
+                      "backgroundColor": "#4269E1",
+                      "color": "white",
+                      "fontSize": 20,
+                      "padding": 4,
+                      "textAlign": "center",
+                    },
+                    Object {
+                      "fontWeight": "bold",
+                    },
+                  ]
+                }
+              >
+                10:00
+                 - 
+                11:00
+              </Text>
+            </View>
+            <View>
+              <Image
+                source={
+                  Object {
+                    "testUri": "../../../assets/arrow.png",
+                  }
+                }
+                style={
+                  Object {
+                    "height": 30,
+                    "margin": 16,
+                    "width": 30,
+                  }
+                }
+              />
+            </View>
+          </View>
+        </View>
+        <View
+          style={
+            Array [
+              Object {
+                "backgroundColor": "#00ad77",
+                "marginTop": -5,
+                "textAlign": "center",
+              },
+              Object {},
+            ]
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "fontSize": 16,
+                "padding": 12,
+                "textAlign": "center",
+              }
+            }
+          >
+            Module Code: 
+            MS200[2]SY/T1/07
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "fontSize": 16,
+                "padding": 12,
+                "textAlign": "center",
+              }
+            }
+          >
+             
+            Synchronous (Online, live)
+          </Text>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "margin": 15,
+          }
+        }
+      >
+        <View
+          accessible={true}
+          focusable={true}
+          onClick={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            Object {
+              "backgroundColor": "#4269E1",
+              "borderRadius": 10,
+              "height": 120,
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "flex": 1,
+                "flexDirection": "row",
+                "justifyContent": "space-between",
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "marginBottom": 4,
+                  "marginTop": 4,
+                  "width": "80%",
+                }
+              }
+            >
+              <Text
+                style={
+                  Object {
+                    "backgroundColor": "#4269E1",
+                    "color": "white",
+                    "fontSize": 20,
+                    "padding": 4,
+                    "textAlign": "center",
+                  }
+                }
+              >
+                Linear Algebra 
+              </Text>
+              <Text
+                style={
+                  Array [
+                    Object {
+                      "backgroundColor": "#4269E1",
+                      "color": "white",
+                      "fontSize": 20,
+                      "padding": 4,
+                      "textAlign": "center",
+                    },
+                    Object {
+                      "fontWeight": "bold",
+                    },
+                  ]
+                }
+              >
+                11:00
+                 - 
+                12:00
+              </Text>
+            </View>
+            <View>
+              <Image
+                source={
+                  Object {
+                    "testUri": "../../../assets/arrow.png",
+                  }
+                }
+                style={
+                  Object {
+                    "height": 30,
+                    "margin": 16,
+                    "width": 30,
+                  }
+                }
+              />
+            </View>
+          </View>
+        </View>
+        <View
+          style={
+            Array [
+              Object {
+                "backgroundColor": "#00ad77",
+                "marginTop": -5,
+                "textAlign": "center",
+              },
+              Object {},
+            ]
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "fontSize": 16,
+                "padding": 12,
+                "textAlign": "center",
+              }
+            }
+          >
+            Module Code: 
+            MS200[2]SY/T1/03
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "fontSize": 16,
+                "padding": 12,
+                "textAlign": "center",
+              }
+            }
+          >
+             CASE Group A,
+             
+            Synchronous (Online, live)
+          </Text>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "margin": 15,
+          }
+        }
+      >
+        <View
+          accessible={true}
+          focusable={true}
+          onClick={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            Object {
+              "backgroundColor": "#4269E1",
+              "borderRadius": 10,
+              "height": 120,
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "flex": 1,
+                "flexDirection": "row",
+                "justifyContent": "space-between",
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "marginBottom": 4,
+                  "marginTop": 4,
+                  "width": "80%",
+                }
+              }
+            >
+              <Text
+                style={
+                  Object {
+                    "backgroundColor": "#4269E1",
+                    "color": "white",
+                    "fontSize": 20,
+                    "padding": 4,
+                    "textAlign": "center",
+                  }
+                }
+              >
+                Linear Algebra 
+              </Text>
+              <Text
+                style={
+                  Array [
+                    Object {
+                      "backgroundColor": "#4269E1",
+                      "color": "white",
+                      "fontSize": 20,
+                      "padding": 4,
+                      "textAlign": "center",
+                    },
+                    Object {
+                      "fontWeight": "bold",
+                    },
+                  ]
+                }
+              >
+                14:00
+                 - 
+                15:00
+              </Text>
+            </View>
+            <View>
+              <Image
+                source={
+                  Object {
+                    "testUri": "../../../assets/arrow.png",
+                  }
+                }
+                style={
+                  Object {
+                    "height": 30,
+                    "margin": 16,
+                    "width": 30,
+                  }
+                }
+              />
+            </View>
+          </View>
+        </View>
+        <View
+          style={
+            Array [
+              Object {
+                "backgroundColor": "#00ad77",
+                "marginTop": -5,
+                "textAlign": "center",
+              },
+              Object {},
+            ]
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "fontSize": 16,
+                "padding": 12,
+                "textAlign": "center",
+              }
+            }
+          >
+            Module Code: 
+            MS200[2]SY/T1/04
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "fontSize": 16,
+                "padding": 12,
+                "textAlign": "center",
+              }
+            }
+          >
+             CASE Group B,
+             
+            Synchronous (Online, live)
+          </Text>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "margin": 15,
+          }
+        }
+      >
+        <View
+          accessible={true}
+          focusable={true}
+          onClick={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            Object {
+              "backgroundColor": "#4269E1",
+              "borderRadius": 10,
+              "height": 120,
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "flex": 1,
+                "flexDirection": "row",
+                "justifyContent": "space-between",
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "marginBottom": 4,
+                  "marginTop": 4,
+                  "width": "80%",
+                }
+              }
+            >
+              <Text
+                style={
+                  Object {
+                    "backgroundColor": "#4269E1",
+                    "color": "white",
+                    "fontSize": 20,
+                    "padding": 4,
+                    "textAlign": "center",
+                  }
+                }
+              >
+                Linear Algebra 
+              </Text>
+              <Text
+                style={
+                  Array [
+                    Object {
+                      "backgroundColor": "#4269E1",
+                      "color": "white",
+                      "fontSize": 20,
+                      "padding": 4,
+                      "textAlign": "center",
+                    },
+                    Object {
+                      "fontWeight": "bold",
+                    },
+                  ]
+                }
+              >
+                15:00
+                 - 
+                16:00
+              </Text>
+            </View>
+            <View>
+              <Image
+                source={
+                  Object {
+                    "testUri": "../../../assets/arrow.png",
+                  }
+                }
+                style={
+                  Object {
+                    "height": 30,
+                    "margin": 16,
+                    "width": 30,
+                  }
+                }
+              />
+            </View>
+          </View>
+        </View>
+        <View
+          style={
+            Array [
+              Object {
+                "backgroundColor": "#00ad77",
+                "marginTop": -5,
+                "textAlign": "center",
+              },
+              Object {},
+            ]
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "fontSize": 16,
+                "padding": 12,
+                "textAlign": "center",
+              }
+            }
+          >
+            Module Code: 
+            MS200[2]SY/T1/05
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "fontSize": 16,
+                "padding": 12,
+                "textAlign": "center",
+              }
+            }
+          >
+             CASE Group C,
+             
+            Synchronous (Online, live)
+          </Text>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "margin": 15,
+          }
+        }
+      >
+        <View
+          accessible={true}
+          focusable={true}
+          onClick={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            Object {
+              "backgroundColor": "#4269E1",
+              "borderRadius": 10,
+              "height": 120,
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "flex": 1,
+                "flexDirection": "row",
+                "justifyContent": "space-between",
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "marginBottom": 4,
+                  "marginTop": 4,
+                  "width": "80%",
+                }
+              }
+            >
+              <Text
+                style={
+                  Object {
+                    "backgroundColor": "#4269E1",
+                    "color": "white",
+                    "fontSize": 20,
+                    "padding": 4,
+                    "textAlign": "center",
+                  }
+                }
+              >
+                Linear Algebra 
+              </Text>
+              <Text
+                style={
+                  Array [
+                    Object {
+                      "backgroundColor": "#4269E1",
+                      "color": "white",
+                      "fontSize": 20,
+                      "padding": 4,
+                      "textAlign": "center",
+                    },
+                    Object {
+                      "fontWeight": "bold",
+                    },
+                  ]
+                }
+              >
+                16:00
+                 - 
+                17:00
+              </Text>
+            </View>
+            <View>
+              <Image
+                source={
+                  Object {
+                    "testUri": "../../../assets/arrow.png",
+                  }
+                }
+                style={
+                  Object {
+                    "height": 30,
+                    "margin": 16,
+                    "width": 30,
+                  }
+                }
+              />
+            </View>
+          </View>
+        </View>
+        <View
+          style={
+            Array [
+              Object {
+                "backgroundColor": "#00ad77",
+                "marginTop": -5,
+                "textAlign": "center",
+              },
+              Object {},
+            ]
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "fontSize": 16,
+                "padding": 12,
+                "textAlign": "center",
+              }
+            }
+          >
+            Module Code: 
+            MS200[2]SY/T1/06
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "fontSize": 16,
+                "padding": 12,
+                "textAlign": "center",
+              }
+            }
+          >
+             CASE Group D,
+             
+            Synchronous (Online, live)
+          </Text>
+        </View>
+      </View>
+    </View>
+  </RCTScrollView>
+</View>
+`;

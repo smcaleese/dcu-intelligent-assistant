@@ -13,10 +13,9 @@ All of these features can be accessed through an AI chatbot. For example, sendin
 ## Screenshots
 
 <div style="display: flex; justify-content: center;">
-  <img src="./readme-images/drawer-menu.jpg" height="480px" width="220px" style="border: 2px solid black; margin: 0 20px;" />
-  <img src="./readme-images/assistant.jpg" height="480px" width="220px" style="border: 2px solid black; margin: 0 20px" />
-  <img src="./readme-images/output.jpg" height="480px" width="220px" style="border: 2px solid black; margin: 0 20px" /> 
-  <img src="./readme-images/map.jpg" height="480px" width="220px" style="border: 2px solid black; margin: 0 20px" />
+  <img src="./readme-images/assistant.jpg" height="480px" width="220px" style="border: 1px solid black; margin: 0 20px" />
+  <img src="./readme-images/output.jpg" height="480px" width="220px" style="border: 1px solid black; margin: 0 20px" /> 
+  <img src="./readme-images/map.jpg" height="480px" width="220px" style="border: 1px solid black; margin: 0 20px" />
 </div>
 
 
